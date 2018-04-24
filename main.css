@@ -1,0 +1,41 @@
+body {
+	background-image: url(hmm.gif);
+	background-repeat: no-repeat;
+}
+
+.header {
+	color: #A3CCC9;
+	text-align: center;
+	font-size: 48px;
+	font-family: Impact, "Impact", sans-serif;
+}
+
+.menu {
+	color: #A1CBC8;
+	font-size: 1.25rem;
+	font-family: Impact, "Impact", sans-serif;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 160px;
+}
+
+.menu a {
+	color: #A1CBC8;
+	font-family: Impact, "Impact", sans-serif;
+	text-decoration: none;
+}
+
+.menua a:active {
+	top: 15px;
+	text-decoration: none;
+}
+
+.box {
+	margin: 10px;
+	border: 3px solid #21766A;
+	text-align: center;
+	background-color: #21766A;
+	position: relative;
+	text-decoration: none;
+}
